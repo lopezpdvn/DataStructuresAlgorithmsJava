@@ -1,0 +1,9 @@
+/tmp
+/data-structures-algorithms/target/
+*swp
+*~
+*.swp
+*.swo
+.~*#
+/tmp
+/bin
